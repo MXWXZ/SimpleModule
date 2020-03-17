@@ -1,8 +1,8 @@
 # SimpleModule
-Hello world kernal module
+Hello world kernel module
 
 ## Build
-- install your kernal version header package(test kernal `5.4.24-1-MANJARO`)
+- install your kernel version header package(test kernel `5.4.24-1-MANJARO`)
 - `make`
 
 ## Test
